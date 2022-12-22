@@ -18,7 +18,7 @@ class Gift {
 
     this.giftElement.style.width = GIFT_WIDTH + "px";
     this.giftElement.style.height = GIFT_HEIGHT + "px";
-    this.giftElement.style.background = 'url("../images/gift.png") no-repeat';
+    this.giftElement.style.background = 'url("./images/gift.png") no-repeat';
 
     bg.appendChild(this.giftElement);
   }
